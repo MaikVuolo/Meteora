@@ -1,0 +1,25 @@
+.text-reduce {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 365px;
+}
+
+.color-yellow-green {
+    color: #DAFF01;
+}
+
+.color-bg-violet {
+    background-color: #9353FF;
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
